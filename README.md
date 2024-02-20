@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hi there, I'm Mykola! 👋
 
-<!--
-**vlasovqa/vlasovqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Automation QA Engineer with 5 years of experience.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages:
+- JavaScript
+- TypeScript
+
+### Testing Frameworks:
+- Cypress
+- Playwright
+- WebdriverIO
+
+### Backend Technologies:
+- GraphQL
+- RestAPI
+
+### Databases:
+- MySQL
+- MongoDB
+- DynamoDB
+
+### Containerization and Orchestration:
+- Docker
+- Docker Compose
+
+### Continuous Integration (CI):
+- Github Actions
+- AWS CodePipeline
+- GitlabCI
+- Jenkins
+
+## 📫 Connect with Me:
+
+- Telegram: [Mykolavl](https://t.me/mykolavl)
+- Email: [mykolavlasov@pecodesoftware.com](mailto:mykolavlasov@pecodesoftware.com)
